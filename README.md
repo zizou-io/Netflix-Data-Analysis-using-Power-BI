@@ -41,7 +41,8 @@ Tracked the overall revenue trends over time, identifying key periods of growth 
 
 Super excited about the actionable insights gained from this analysis! 🚀 Can't wait to leverage these findings for data-driven decision-making. 🤓💡
 
-Feel free to explore the interactive visualizations [link to your PowerBI dashboard] and let me know your thoughts! 🌐🔍
+Feel free to explore the interactive visualizations [Netflix Report](https://github.com/zizou-io/Netflix-Data-Analysis-using-Power-BI/blob/main/Netflix%20User%20Report.pbix)
+ and let me know your thoughts! 🌐🔍
 
 
 
